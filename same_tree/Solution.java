@@ -1,5 +1,7 @@
 package kai.leetcode.algorithm.same_tree;
-
+//Given two binary trees, write a function to check if they are equal or not.
+//
+//Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
 //  Definition for binary tree
 class TreeNode {
 	int val;
