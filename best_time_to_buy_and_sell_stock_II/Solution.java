@@ -1,4 +1,4 @@
-package kai.leetcode.algorithm.best_time_to_buy_and_sell_stock_II;
+package kai.leetcode.algorithm.best_time_to_buy_and_sell_stock_ii;
 //
 //Say you have an array for which the ith element is the price of a given stock on day i.
 //
