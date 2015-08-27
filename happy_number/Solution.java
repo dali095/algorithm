@@ -1,5 +1,6 @@
 package kai.leetcode.algorithm.happy_number;
 
+import java.util.HashSet;
 import java.util.Set;
 
 //Write an algorithm to determine if a number is "happy".
@@ -15,7 +16,7 @@ import java.util.Set;
 
 public class Solution {
 	public boolean isHappy(int n) {
-		Set<Integer> set = new HashSet<>();
+		Set<Integer> set = new HashSet<Integer>();
 
 		while (true) {
 			String s = n + "";
